@@ -1,6 +1,6 @@
 <!-- Profil Ziyaretçileri -->
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=anilaldogan&label=Profile%20views&color=0e75b6&style=flat" alt="anilaldogan" /> 
+  <img src="https://komarev.com/ghpvc/?username=aldoganAnil&label=Profile%20views&color=0e75b6&style=flat" alt="aldoganAnil" /> 
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammet Anıl Aldoğan</h1>
