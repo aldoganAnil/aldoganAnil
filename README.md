@@ -48,7 +48,7 @@
 <!-- İletişim -->
 <p align="center">
   📫 <strong>Email: </strong>
-  <a href="mailto:muhanilaldogan@hotmail.com">muhanilaldogan@hotmail.com</a>
+  <a href="mailto:anil.aldogan@yemekpos.com">anil.aldogan@yemekpos.com</a>
 </p>
 
 <br/>
@@ -57,7 +57,7 @@
 <p align="center">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=anilaldogan&show_icons=true&theme=dark" alt="anilaldogan-stats" width="350px"/>-->
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilaldogan&theme=dark" alt="anilaldogan-streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldoganAnil&theme=dark" alt="aldoganAnil-streak"/>
   <br/>
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilaldogan&layout=compact&theme=dark" alt="anilaldogan-languages" width="350px"/>-->
 </p>
